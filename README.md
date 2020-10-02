@@ -19,8 +19,6 @@
 1.Filter Items <br />
 2.Top Deals Alert
 
-<br/>
-<hr />
 
 ### Tools and Technologies Used:
 
@@ -32,7 +30,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </code>
 </p>
-<hr>
+
 
 <img alt="Website" width="180px" height="38px" src="https://camo.githubusercontent.com/85c2c434ad9847385c56dc2e2d54eabb1fb6f79d/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667">      <img alt="Website" width="180px" height="38px" src="https://camo.githubusercontent.com/4d50177f3b0c044c99ffce53046b4c126b906593/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6275696c742d62792d646576656c6f706572732e737667">
 <hr/>
